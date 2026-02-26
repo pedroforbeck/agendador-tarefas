@@ -1,8 +1,6 @@
-package com.java.agendadortarefas.bussiness.dto;
+package com.java.agendadortarefas.business.dto;
 
 import lombok.*;
-
-import java.util.List;
 
 @Getter
 @Setter

@@ -1,6 +1,6 @@
 package com.java.agendadortarefas.infrastructure.client;
 
-import com.java.agendadortarefas.bussiness.dto.UsuarioDTO;
+import com.java.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;
